@@ -5,7 +5,12 @@ import './App.css'
 const App = () => {
   return (
     <>
-      <h1>App</h1>
+      <ChatEngine
+        height="100vh"
+        projectID="bacb6ba9-b623-4136-a19e-573206e69c49        "
+        userName="ayoub"
+        userSecret="lina2015"
+      />
     </>
   )
 }
