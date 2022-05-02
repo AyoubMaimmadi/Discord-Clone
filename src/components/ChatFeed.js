@@ -37,9 +37,15 @@ const ChatFeed = (props) => {
 
   renderMessages()
 
+  if (!chat) return 'Loading...'
+
   return (
     <>
-      <div>ChatFeed</div>
+      <div className="chat-feed">
+        <div className="chat-title-container">
+          <div className="chat-tite">{chat?.title}</div>
+        </div>
+      </div>
     </>
   )
 }
