@@ -13,6 +13,7 @@ const MyMessage = ({ message }) => {
       </>
     )
   }
+
   return (
     <>
       <div
