@@ -2,4 +2,4 @@
 
 ![](./public/homepage.PNG)
 
-### View -> https://discordd-clone.netlify.app
+### View -> https://discordd-clone.vercel.app
